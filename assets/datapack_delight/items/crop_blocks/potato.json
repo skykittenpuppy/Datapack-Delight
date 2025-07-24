@@ -1,0 +1,33 @@
+{
+	"model": {
+		"type": "minecraft:range_dispatch",
+		"property": "custom_model_data",
+		"fallback": {
+			"type": "model",
+			"model": "block/potatoes_stage0"
+		},
+		"entries": [
+			{
+				"threshold": 2,
+				"model": {
+					"type": "model",
+					"model": "block/potatoes_stage1"
+				}
+			},
+			{
+				"threshold": 4,
+				"model": {
+					"type": "model",
+					"model": "block/potatoes_stage2"
+				}
+			},
+			{
+				"threshold": 7,
+				"model": {
+					"type": "model",
+					"model": "block/potatoes_stage3"
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,61 @@
+{
+	"model": {
+		"type": "minecraft:range_dispatch",
+		"property": "custom_model_data",
+		"fallback": {
+			"type": "model",
+			"model": "datapack_delight:block/cabbages_stage0"
+		},
+		"entries": [
+			{
+				"threshold": 1,
+				"model": {
+					"type": "model",
+					"model": "datapack_delight:block/cabbages_stage1"
+				}
+			},
+			{
+				"threshold": 2,
+				"model": {
+					"type": "model",
+					"model": "datapack_delight:block/cabbages_stage2"
+				}
+			},
+			{
+				"threshold": 3,
+				"model": {
+					"type": "model",
+					"model": "datapack_delight:block/cabbages_stage3"
+				}
+			},
+			{
+				"threshold": 4,
+				"model": {
+					"type": "model",
+					"model": "datapack_delight:block/cabbages_stage4"
+				}
+			},
+			{
+				"threshold": 5,
+				"model": {
+					"type": "model",
+					"model": "datapack_delight:block/cabbages_stage5"
+				}
+			},
+			{
+				"threshold": 6,
+				"model": {
+					"type": "model",
+					"model": "datapack_delight:block/cabbages_stage6"
+				}
+			},
+			{
+				"threshold": 7,
+				"model": {
+					"type": "model",
+					"model": "datapack_delight:block/cabbages_stage7"
+				}
+			}
+		]
+	}
+}

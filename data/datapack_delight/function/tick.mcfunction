@@ -1,0 +1,2 @@
+execute as @e[type=interaction, tag=datapack_delight_crop] store result entity @s data.datapack_delight_growth int 1 run scoreboard players get @s datapack_delight.growth
+execute as @e[type=interaction, tag=datapack_delight_crop] at @s run function datapack_delight:crops/tick with entity @s data
