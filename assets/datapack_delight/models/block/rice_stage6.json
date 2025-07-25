@@ -1,0 +1,7 @@
+{
+  "parent": "datapack_delight:block/crop_tall",
+  "textures": {
+    "bottom": "datapack_delight:block/rice_supporting",
+    "top": "datapack_delight:block/rice_stage6"
+  }
+}

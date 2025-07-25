@@ -4,56 +4,56 @@
 		"property": "custom_model_data",
 		"fallback": {
 			"type": "model",
-			"model": "minecraft:block/wheat_stage0"
+			"model": "datapack_delight:block/rice_stage0"
 		},
 		"entries": [
 			{
 				"threshold": 1,
 				"model": {
 					"type": "model",
-					"model": "minecraft:block/wheat_stage1"
+					"model": "datapack_delight:block/rice_stage1"
 				}
 			},
 			{
 				"threshold": 2,
 				"model": {
 					"type": "model",
-					"model": "minecraft:block/wheat_stage2"
+					"model": "datapack_delight:block/rice_stage2"
 				}
 			},
 			{
 				"threshold": 3,
 				"model": {
 					"type": "model",
-					"model": "minecraft:block/wheat_stage3"
+					"model": "datapack_delight:block/rice_stage3"
 				}
 			},
 			{
 				"threshold": 4,
 				"model": {
 					"type": "model",
-					"model": "minecraft:block/wheat_stage4"
+					"model": "datapack_delight:block/rice_stage4"
 				}
 			},
 			{
 				"threshold": 5,
 				"model": {
 					"type": "model",
-					"model": "minecraft:block/wheat_stage5"
+					"model": "datapack_delight:block/rice_stage5"
 				}
 			},
 			{
 				"threshold": 6,
 				"model": {
 					"type": "model",
-					"model": "minecraft:block/wheat_stage6"
+					"model": "datapack_delight:block/rice_stage6"
 				}
 			},
 			{
 				"threshold": 7,
 				"model": {
 					"type": "model",
-					"model": "minecraft:block/wheat_stage7"
+					"model": "datapack_delight:block/rice_stage7"
 				}
 			}
 		]

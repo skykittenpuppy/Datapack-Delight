@@ -1,4 +1,10 @@
 {
 	"item.datapack_delight.cabbage":		"Cabbage",
-	"item.datapack_delight.cabbage_seeds":	"Cabbage Seeds"
+	"item.datapack_delight.cabbage_seeds":	"Cabbage Seeds",
+	"item.datapack_delight.dog":			"Dog",
+	"item.datapack_delight.onion":			"Onion",
+	"item.datapack_delight.rice":			"Rice",
+	"item.datapack_delight.rice_panicle":	"Rice Panicle",
+	"item.datapack_delight.tomato":			"Tomato",
+	"item.datapack_delight.tomato_seeds":	"Tomato Seeds"
 }

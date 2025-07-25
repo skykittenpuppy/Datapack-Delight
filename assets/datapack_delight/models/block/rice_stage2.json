@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "datapack_delight:block/rice_stage2"
+  }
+}

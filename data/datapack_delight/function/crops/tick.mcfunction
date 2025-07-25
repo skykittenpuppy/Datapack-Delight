@@ -6,7 +6,9 @@ $execute on passengers if data entity @s interaction on vehicle if score @s data
 execute on passengers if data entity @s interaction run data remove entity @s interaction
 
 # Grow
-
+execute store result score @s datapack_delight.points run gamerule randomTickSpeed
+execute store result score VAR datapack_delight.points run random value 1..4096
+execute unless score @s datapack_delight.growth matches 7.. if score @s datapack_delight.points >= VAR datapack_delight.points run function datapack_delight:crops/try_grow with entity @s data
 
 # Update Size/Visuals
 execute if score @s datapack_delight.growth matches 7.. on passengers run data modify entity @s[type=interaction] response set value true

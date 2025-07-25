@@ -4,28 +4,28 @@
 		"property": "custom_model_data",
 		"fallback": {
 			"type": "model",
-			"model": "block/carrots_stage0"
+			"model": "minecraft:block/carrots_stage0"
 		},
 		"entries": [
 			{
 				"threshold": 2,
 				"model": {
 					"type": "model",
-					"model": "block/carrots_stage1"
+					"model": "minecraft:block/carrots_stage1"
 				}
 			},
 			{
 				"threshold": 4,
 				"model": {
 					"type": "model",
-					"model": "block/carrots_stage2"
+					"model": "minecraft:block/carrots_stage2"
 				}
 			},
 			{
 				"threshold": 7,
 				"model": {
 					"type": "model",
-					"model": "block/carrots_stage3"
+					"model": "minecraft:block/carrots_stage3"
 				}
 			}
 		]

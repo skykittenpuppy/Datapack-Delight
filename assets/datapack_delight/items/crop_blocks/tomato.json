@@ -4,28 +4,28 @@
 		"property": "custom_model_data",
 		"fallback": {
 			"type": "model",
-			"model": "minecraft:block/beetroots_stage0"
+			"model": "datapack_delight:block/tomatoes_stage0"
 		},
 		"entries": [
 			{
 				"threshold": 2,
 				"model": {
 					"type": "model",
-					"model": "minecraft:block/beetroots_stage1"
+					"model": "datapack_delight:block/tomatoes_stage1"
 				}
 			},
 			{
 				"threshold": 4,
 				"model": {
 					"type": "model",
-					"model": "minecraft:block/beetroots_stage2"
+					"model": "datapack_delight:block/tomatoes_stage2"
 				}
 			},
 			{
 				"threshold": 7,
 				"model": {
 					"type": "model",
-					"model": "minecraft:block/beetroots_stage3"
+					"model": "datapack_delight:block/tomatoes_stage3"
 				}
 			}
 		]
